@@ -1,0 +1,41 @@
+/*  Custom styling (not related to flexbox)  */
+.container-1 div{
+	border: 1px solid #ccc;
+	padding:  10px;
+}
+.container-2 div{
+	border: 1px solid #ccc;
+	padding:  10px;
+}
+.container-3 div{
+	border: 1px solid #ccc;
+	padding:  10px;	
+}
+.container-4 div{
+	border: 1px solid #ccc;
+	padding:  10px;	
+}
+
+h2{
+	display:  inline;
+	border: 1px solid #ccc;
+	padding:  2	0px;
+}
+
+h1{
+	color:  deepskyblue;
+}
+
+/* Flexbox styling starts here  */
+.container-1{
+	display:  flex;
+}
+.container-2{
+	display:  flex;
+}
+.container-3{
+	display:  inline-flex;
+}
+.container-4{
+	display:  inline-flex;
+}
