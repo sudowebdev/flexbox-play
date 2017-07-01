@@ -23,7 +23,7 @@ Flexbox: A flexible box model
 
 The flex layout is constituted of parent container referred as flex container and its immediate children which are called flex items.  
 
-#### Part-1: The Code  
+#### Part-1: The Code (flex-main.html) 
 
 To use flexbox layout just set the display property on the parent HTML element:  
 
